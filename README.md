@@ -1,4 +1,4 @@
-# lamp_ubuntu
+
 ### What is LAMP Stack?
 The LAMP stack is a popular open-source solution stack used primarily in web development.
 
